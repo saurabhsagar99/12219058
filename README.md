@@ -162,11 +162,12 @@ medico-assignment/
 ---
 
 ## Screenshots
-> **Note:** Replace the placeholder images in the `./screenshots/` folder with your own screenshots:
-> - `health-check.png`: Health check endpoint output
-> - `create-shorturl.png`: Short URL creation response
-> - `redirect.png`: Browser redirect (can be a browser screenshot showing the redirect)
-> - `stats.png`: Statistics endpoint output
+<img width="1628" height="764" alt="Screenshot 2025-07-14 114131" src="https://github.com/user-attachments/assets/205fa216-79a7-42d5-850b-43ff284cac12" />
+<img width="1577" height="595" alt="Screenshot 2025-07-14 114030" src="https://github.com/user-attachments/assets/388ae41a-95ab-405b-aa7b-65f7199d0a9d" />
+<img width="1159" height="311" alt="image" src="https://github.com/user-attachments/assets/abcdfe9d-a087-4349-8170-0273e871a403" />
+
+
+
 
 ---
 
